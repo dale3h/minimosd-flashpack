@@ -5,6 +5,8 @@ I will be trying to add more in the near future.**
 
 ## OS Support
 
+Click the link of the OS you're using to go to the correct github repository.
+
 * [Windows (32-bit)](https://github.com/dale3h/minimosd-flashpack-win32)
 * [Windows (64-bit)](https://github.com/dale3h/minimosd-flashpack-win64)
 * [Mac OS X](https://github.com/dale3h/minimosd-flashpack-macosx)
